@@ -1,0 +1,9 @@
+{
+	"name": "datamoversys",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e634cd07-9b96-4441-9faf-1b5ea8cfc0a6",
+		"tenantId": "c3ed3e6f-0163-4ac9-a28a-38dfc7e21ecd"
+	}
+}
