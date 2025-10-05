@@ -1,0 +1,17 @@
+{
+	"name": "branch-pipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait-demo",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 10
+				}
+			}
+		],
+		"annotations": []
+	}
+}
